@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+
+.env
+coach_sessions.sqlite3
+uploads/
+outputs/
+eval_videos/
+
+.streamlit/
