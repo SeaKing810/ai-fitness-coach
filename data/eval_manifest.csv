@@ -1,0 +1,4 @@
+video_path,exercise,label_rep_count,notes
+eval_videos/squat_good_01.mp4,squat,8,Side view, good lighting
+eval_videos/squat_shallow_01.mp4,squat,10,Shallow depth example
+eval_videos/squat_good_02.mp4,squat,6,Consistent tempo
