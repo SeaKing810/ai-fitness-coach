@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+transformers
+torch
+mediapipe
+opencv-python
+python-dotenv
